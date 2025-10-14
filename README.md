@@ -24,8 +24,9 @@
 ---
 
 ### 🌱 Currently Learning
-- BackEnd Development  
-- Cloud Computing   
+- Backend Development  
+- Cloud Computing
+- Test Automation   
 - Clean Code & Software Architecture  
 
 
