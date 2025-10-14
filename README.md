@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi there, I'm Julia Gabriele Kreling!</h1>
 
 <p align="center">
-  💻 <b>Developer</b> | 🎓 System Analysis and Development | ☁️ Cloud Computing Enthusiast
+  💻 <b>Developer</b> | 🎓 System Analysis and Development | ☁️ Cloud Computing Enthusiast | 🧪 QA & Test Automation Experience
 </p>
+
 
 ---
 
