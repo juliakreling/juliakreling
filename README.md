@@ -1,16 +1,9 @@
-<h1 align="center">👋 Hi there, I'm Julia Kreling!</h1>
+<h1 align="center">👋 Hi there, I'm Julia Gabriele Kreling!</h1>
 
 <p align="center">
-  💻 <b>Entry-Level Developer</b> | 🎓 System Analysis and Development | ☁️ Cloud Computing Enthusiast
+  💻 <b>Developer</b> | 🎓 System Analysis and Development | ☁️ Cloud Computing Enthusiast
 </p>
 
----
-
-### 🌟 About Me
-I’m an **Entry-Level Developer** with a degree in **System Analysis and Development** and **2 years of experience as a QA professional**.  
-
-I’m currently pursuing a **postgraduate degree in Full Stack Development** and looking for my **first opportunity as a Developer**.  
-Throughout my journey, I’ve gained **hands-on experience in software development projects**.  
 
 ---
 
@@ -34,14 +27,6 @@ Throughout my journey, I’ve gained **hands-on experience in software developme
 - Cloud Computing   
 - Clean Code & Software Architecture  
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
