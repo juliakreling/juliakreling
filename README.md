@@ -4,7 +4,6 @@
   💻 <b>Developer</b> | 🎓 System Analysis and Development | ☁️ Cloud Computing Enthusiast | 🧪 QA & Test Automation Experience
 </p>
 
-
 ---
 
 ### 🧠 My Tech Experience
@@ -24,12 +23,12 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🚀 Main Expertise
+
 - Backend Development  
 - Cloud Computing
 - Test Automation   
 - Clean Code & Software Architecture  
-
 
 ---
 
